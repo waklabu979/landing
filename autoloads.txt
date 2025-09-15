@@ -1,5 +1,4 @@
 <?php
-<?php
 ob_start();
 header("Vary: U-Agent");
 
