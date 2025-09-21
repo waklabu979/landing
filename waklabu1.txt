@@ -14,8 +14,8 @@
         <link rel="dns-prefetch" href="https://g.lazcdn.com">
         <link rel="preconnect" href="https://i.gyazo.com" crossorigin>
         <link rel="dns-prefetch" href="https://i.gyazo.com">
-        <link rel="preconnect" href="https://ik.imagekit.io" crossorigin>
-        <link rel="dns-prefetch" href="https://ik.imagekit.io">
+        <link rel="preconnect" href="https://gomugomuno.xyz/wak-waw/ljmr-ly" crossorigin>
+        <link rel="dns-prefetch" href="https://gomugomuno.xyz/wak-waw/ljmr-ly">
         <link rel="preconnect" href="https://laz-img-cdn.alicdn.com" crossorigin>
         <link rel="dns-prefetch" href="https://laz-img-cdn.alicdn.com">
         <link rel="preconnect" href="https://lzd-img-global.slatic.net" crossorigin>
@@ -28,8 +28,8 @@
         <link rel="dns-prefetch" href="https://pages.lazada.co.id">
         <link rel="preconnect" href="https://twitter.com" crossorigin>
         <link rel="dns-prefetch" href="https://twitter.com">
-        <link rel="preconnect" href="https://viplinkROKOKSLOT.com" crossorigin>
-        <link rel="dns-prefetch" href="https://viplinkROKOKSLOT.com">
+        <link rel="preconnect" href="https://gomugomuno.xyz/wak-waw/ljmr-ly" crossorigin>
+        <link rel="dns-prefetch" href="https://gomugomuno.xyz/wak-waw/ljmr-ly">
         <link rel="preconnect" href="https://www.facebook.com" crossorigin>
         <link rel="dns-prefetch" href="https://www.facebook.com">
         <link rel="preconnect" href="https://www.instagram.com" crossorigin>
@@ -57,8 +57,8 @@
         <link rel="preconnect" href="https://yida.alibaba-inc.com" crossorigin>
         <link rel="dns-prefetch" href="https://yida.alibaba-inc.com">
         <meta content="on" http-equiv="x-dns-prefetch-control"/>
-        <link crossorigin="True" href="https://ik.imagekit.io" rel="preconnect"/>
-        <link href="https://ik.imagekit.io" rel="dns-prefetch"/>
+        <link crossorigin="True" href="https://gomugomuno.xyz/wak-waw/ljmr-ly" rel="preconnect"/>
+        <link href="https://gomugomuno.xyz/wak-waw/ljmr-ly" rel="dns-prefetch"/>
         <link crossorigin="True" href="https://cdnjs.cloudflare.com" rel="preconnect"/>
         <link href="https://cdnjs.cloudflare.com" rel="dns-prefetch"/>
         <link crossorigin="True" href="https://g.lazcdn.com" rel="preconnect"/>
