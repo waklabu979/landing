@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tugasakhirtaruna.akaba-bwi.ac.id/sitemap.xml
