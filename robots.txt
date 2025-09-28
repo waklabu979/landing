@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://journal.naturalhistory.id/sitemap.xml
