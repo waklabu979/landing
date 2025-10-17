@@ -15,7 +15,7 @@
   <meta name="google-site-verification" content="U5xfji0ehH2aohi7fe7FfFYseOn64eafX6hyQE9z5QI" />
   <meta property="og:image" content="https://images2.imgbox.com/d2/03/FHBxoTDO_o.jpg">
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true"><link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png">
+  <link rel="shortcut icon" href="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png">
   <link rel="canonical" href="https://jna.com.vn/">
   <link rel="amphtml" href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" />
   <!-- start preload -->
@@ -994,7 +994,7 @@ window.__lzd__svg__cssinject__ = true;
 </div>
 <div class="lzd-logo-bar default">
 <div class="logo-bar-content header-content">
-<div class="lzd-logo-content"><a data-spm="dhome" href="https://jna.com.vn/"><img alt="Bandar Slot" src="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png"></a></div>
+<div class="lzd-logo-content"><a data-spm="dhome" href="https://jna.com.vn/"><img alt="Bandar Slot" src="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png"></a></div>
 <div class="lzd-nav-search" data-spm="search">
 <div class="layout-search-box--qK-K">
 <form action="https://www.lazada.co.id/catalog/" autocomplete="off" method="get">
@@ -2262,7 +2262,7 @@ window.__lzd__svg__cssinject__ = true;
 </div>
 </div>
 </div>
-<nav class="lzd-menu-labels" data-spm="menu"><a class="lzd-menu-labels-item" href="https://jna.com.vn/"><span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"><img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png"></span> <span class="lzd-menu-labels-item-text">SLOT DANA</span></a> <a class="lzd-menu-labels-item" href="https://jna.com.vn/"><span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"><img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png"></span> <span class="lzd-menu-labels-item-text">SLOT GACOR</span></a> <a class="lzd-menu-labels-item" href="https://jna.com.vn/"><span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"><img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png"></span> <span class="lzd-menu-labels-item-text">SITUS SLOT GACOR</span></a></nav>
+<nav class="lzd-menu-labels" data-spm="menu"><a class="lzd-menu-labels-item" href="https://jna.com.vn/"><span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"><img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png"></span> <span class="lzd-menu-labels-item-text">SLOT DANA</span></a> <a class="lzd-menu-labels-item" href="https://jna.com.vn/"><span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"><img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png"></span> <span class="lzd-menu-labels-item-text">SLOT GACOR</span></a> <a class="lzd-menu-labels-item" href="https://jna.com.vn/"><span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"><img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png"></span> <span class="lzd-menu-labels-item-text">SITUS SLOT GACOR</span></a></nav>
 </div>
 </div>
 </div>
@@ -2429,7 +2429,7 @@ window.__lzd__svg__cssinject__ = true;
 <!-- custom css -->
 <style>
 .lzd-header .lzd-logo-bar .logo-bar-content .lzd-nav-cart .cart-icon {
-    background-image: url(https://images2.imgbox.com/91/f4/hNuW95Gj_o.png);
+    background-image: url(https://images2.imgbox.com/80/f4/65Y0P2JO_o.png);
     background-size: cover;
     height: 43px;
     left: 50%;
@@ -2699,7 +2699,7 @@ window.__lzd__svg__cssinject__ = true;
 <div class="seller-name-retail">
 <div class="seller-name__wrapper">
 <div class="seller-name__title">Dibuat Oleh</div>
-<div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name" href="https://jna.com.vn/" target="_self">Seo ND </a></div>
+<div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name" href="https://jna.com.vn/" target="_self">SEO WAKLABU </a></div>
 </div>
 </div>
 </div>
@@ -2714,7 +2714,7 @@ window.__lzd__svg__cssinject__ = true;
 <div class="lazyload-wrapper"></div>
 </div>
 </div>
-<div class="footer-baru"><a href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="PROMO SLOT DANA" height="20px" src="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png" width="20px"> Promosi</a> <a href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="LOGIN SLOT DANA" height="20px" src="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png" width="20px"> Login</a> <a class="tada" href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="DAFTAR SLOT DANA" height="20px" src="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png" width="20px"> Daftar</a> <a href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="RTP SLOT DANA" height="20px" src="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png" width="20px"> Link</a> <a class="js_live_chat_link live-chat-link" href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="LIVECHAT SLOT DANA" class="live-chat-icon" height="20px" src="https://images2.imgbox.com/91/f4/hNuW95Gj_o.png" width="20px"> Live Chat</a></div>
+<div class="footer-baru"><a href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="PROMO SLOT DANA" height="20px" src="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png" width="20px"> Promosi</a> <a href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="LOGIN SLOT DANA" height="20px" src="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png" width="20px"> Login</a> <a class="tada" href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="DAFTAR SLOT DANA" height="20px" src="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png" width="20px"> Daftar</a> <a href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="RTP SLOT DANA" height="20px" src="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png" width="20px"> Link</a> <a class="js_live_chat_link live-chat-link" href="https://gomugomuno.xyz/Hito-Hito-no-Mi/jna-com-vn" rel="nofollow noopener" target="_blank"><img alt="LIVECHAT SLOT DANA" class="live-chat-icon" height="20px" src="https://images2.imgbox.com/80/f4/65Y0P2JO_o.png" width="20px"> Live Chat</a></div>
 <div class="pdp-block pdp-block__multisource" id="block-VpBbTur5Zjm">
 <div class="pdp-block fixed-width-full" id="block_multiple_source">
 <div class="pdp-block module" id="module_multiple_source"></div>
