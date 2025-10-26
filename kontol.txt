@@ -15,10 +15,10 @@
     <meta charset=utf-8>
     <meta http-equiv=X-UA-Compatible content=ie=edge>
     <meta name=viewport content="width=device-width, initial-scale=1">
-    <link rel=preload fetchpriority=high as=image href="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+    <link rel=preload fetchpriority=high as=image href="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
     <script type=text/javascript>
       try {
-        window.heroImg = "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg";
+        window.heroImg = "https://mic.yayasancec.or.id/about-us/fotoku.jpg";
       } catch (err) {
         console.error(err);
       }
@@ -28,7 +28,7 @@
     <meta name="description" content="Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan." />
     <meta Property="og:url" Content="https://mic.yayasancec.or.id/about-us/" />
     <meta Property="og:description" Content="Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan." />
-    <meta Property="og:image" Content="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg" />
+    <meta Property="og:image" Content="https://mic.yayasancec.or.id/about-us/fotoku.jpg" />
     <meta property="fb:app_id" content="102628213125203" />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large" />
     <meta name="google-adsense-account" content="sites-7757056108965234" />
@@ -792,10 +792,10 @@
               <div class="ux-image-grid-container filmstrip filmstrip-x">
                 <div data-testid=grid-container class="ux-image-grid no-scrollbar">
                   <button class="ux-image-grid-item image-treatment rounded-edges" data-idx=0 style="aspect-ratio: 1 / 1;" aria-current=false aria-label="Stock photo">
-                    <img alt="Stock photo" data-idx=0 src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                    <img alt="Stock photo" data-idx=0 src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                   </button>
                   <button class="ux-image-grid-item image-treatment rounded-edges" data-idx=3 style="aspect-ratio: 1 / 1;" aria-current=false aria-label="Picture 3 of 25">
-                    <img alt="Picture 3 of 25" data-idx=3 src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                    <img alt="Picture 3 of 25" data-idx=3 src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                   </button>
                 </div>
               </div>
@@ -839,7 +839,7 @@
                 </div>
                 <div tabindex=0 aria-label="Opens image gallery dialog 👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 12 of 25" role=button class="ux-image-carousel zoom img-transition-medium">
                   <div class="ux-image-carousel-item image-treatment image" data-idx=0>
-                    <img alt="Stock photo" data-zoom-src loading=eager src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg srcset="   " sizes="(min-width: 768px) 60vw, 100vw" onload="if (window && (window.firstImgLoadTime == 0)) {window.firstImgLoadTime = new Date().getTime();} if (window && window.heroImg && this.src !== window.heroImg) {this.src = window.heroImg; window.heroImg=null;}" fetchpriority=high class=img-scale-down>
+                    <img alt="Stock photo" data-zoom-src loading=eager src=https://mic.yayasancec.or.id/about-us/fotoku.jpg srcset="   " sizes="(min-width: 768px) 60vw, 100vw" onload="if (window && (window.firstImgLoadTime == 0)) {window.firstImgLoadTime = new Date().getTime();} if (window && window.heroImg && this.src !== window.heroImg) {this.src = window.heroImg; window.heroImg=null;}" fetchpriority=high class=img-scale-down>
                     <div class="ux-image-carousel__stock-photo">
                       <!--F#f_1-->
                       <!--F#12[0]-->
@@ -942,7 +942,7 @@
                       </div>
                       <div tabindex=0 aria-label="Opens image gallery dialog 👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 12 of 25" role=button class="ux-image-carousel zoom img-transition-medium">
                         <div class="ux-image-carousel-item image-treatment image" data-idx=0>
-                          <img alt="Stock photo" data-zoom-src loading=lazy src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg onload="if (window && (window.picTimer == 0)) {window.picTimer = new Date().getTime();} " class=img-scale-down>
+                          <img alt="Stock photo" data-zoom-src loading=lazy src=https://mic.yayasancec.or.id/about-us/fotoku.jpg onload="if (window && (window.picTimer == 0)) {window.picTimer = new Date().getTime();} " class=img-scale-down>
                           <div class="ux-image-carousel__stock-photo">
                             <!--F#f_1-->
                             <!--F#12[0]-->
@@ -958,10 +958,10 @@
                           <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25" data-zoom-src data-src=https://i.ebayimg.com/images/g/BWIAAOSwb4FoWhQg/s-l500.webp class=img-scale-down>
                         </div>
                         <div class="ux-image-carousel-item image-treatment image" data-idx=3>
-                          <img alt="Picture 3 of 25" data-zoom-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg data-src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                          <img alt="Picture 3 of 25" data-zoom-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg data-src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                         </div>
                         <div class="ux-image-carousel-item image-treatment image" data-idx=4>
-                          <img alt="Picture 4 of 25" data-zoom-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg data-src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                          <img alt="Picture 4 of 25" data-zoom-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg data-src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                         </div>
                         <div class="ux-image-carousel-item image-treatment image" data-idx=5>
                           <img alt="Picture 5 of 25" data-zoom-src=https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l1600.webp data-src=https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l1600.webp>
@@ -1040,17 +1040,17 @@
                     <div class="ux-image-grid-container masonry-211 x-photos-max-view--show">
                       <div data-testid=grid-container class=ux-image-grid>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=0 style="aspect-ratio: 1 / 1;" aria-current=false aria-label="Stock photo">
-                          <img alt="Stock photo" data-idx=0 data-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
+                          <img alt="Stock photo" data-idx=0 data-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
                         </button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=1 style="aspect-ratio: 1000 / 1000;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 1 of 25"></button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=2 style="aspect-ratio: 500 / 500;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25">
                           <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25" data-idx=2 data-src=https://i.ebayimg.com/images/g/BWIAAOSwb4FoWhQg/s-l500.webp loading=lazy>
                         </button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=3 style="aspect-ratio: 960 / 591;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 3 of 25">
-                          <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 3 of 25" data-idx=3 data-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
+                          <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 3 of 25" data-idx=3 data-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
                         </button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=4 style="aspect-ratio: 1024 / 576;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 4 of 25">
-                          <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 4 of 25" data-idx=4 data-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
+                          <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 4 of 25" data-idx=4 data-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
                         </button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=5 style="aspect-ratio: 1274 / 1500;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 5 of 25">
                           <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 5 of 25" data-idx=5 data-src=https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l500.webp loading=lazy>
@@ -2669,7 +2669,7 @@
                     <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
                       <!--F#10-->
                       <div class="card-image-container image-treatment">
-                        <img loading=lazy alt="Situs Gacor" src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                        <img loading=lazy alt="Situs Gacor" src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                       </div>
                       <div class=x-card_details-wrapper>
                         <div class=x-card_details>
@@ -2733,7 +2733,7 @@
                     <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
                       <!--F#10-->
                       <div class="card-image-container image-treatment">
-                        <img loading=lazy alt="Situs Gacor" src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                        <img loading=lazy alt="Situs Gacor" src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                       </div>
                       <div class=x-card_details-wrapper>
                         <div class=x-card_details>
@@ -2797,7 +2797,7 @@
                     <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
                       <!--F#10-->
                       <div class="card-image-container image-treatment">
-                        <img loading=lazy alt="Slot Dana" src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                        <img loading=lazy alt="Slot Dana" src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                       </div>
                       <div class=x-card_details-wrapper>
                         <div class=x-card_details>
@@ -2861,7 +2861,7 @@
                     <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
                       <!--F#10-->
                       <div class="card-image-container image-treatment">
-                        <img loading=lazy alt="Situs ZEUS" src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                        <img loading=lazy alt="Situs ZEUS" src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                       </div>
                       <div class=x-card_details-wrapper>
                         <div class=x-card_details>
@@ -4206,7 +4206,7 @@
                   ["s0-2-0-6-2", 1, {
                     "model": {
                       "_type": "MarsViewModel",
-                      "htmlElements": ["<!-- SEO METADATA START -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"https://mic.yayasancec.or.id/about-us/\" />", "<meta name=\"description\" content=\"Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan.\" />", "<meta Property=\"og:url\" Content=\"https://mic.yayasancec.or.id/about-us/\" />", "<meta Property=\"og:description\" Content=\"Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan.\" />", "<meta Property=\"og:image\" Content=\"https://https://mic.yayasancec.or.id/about-us/fotoku.jpg\" />", "<meta property=\"fb:app_id\" content=\"102628213125203\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"google-site-verification\" content=\"8kHr3jd3Z43q1ovwo0KVgo_NZKIEMjthBxti8m8fYTg\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
+                      "htmlElements": ["<!-- SEO METADATA START -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"https://mic.yayasancec.or.id/about-us/\" />", "<meta name=\"description\" content=\"Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan.\" />", "<meta Property=\"og:url\" Content=\"https://mic.yayasancec.or.id/about-us/\" />", "<meta Property=\"og:description\" Content=\"Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan.\" />", "<meta Property=\"og:image\" Content=\"https://mic.yayasancec.or.id/about-us/fotoku.jpg\" />", "<meta property=\"fb:app_id\" content=\"102628213125203\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"google-site-verification\" content=\"8kHr3jd3Z43q1ovwo0KVgo_NZKIEMjthBxti8m8fYTg\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
                     }
                   }, {
                     "f": 1
@@ -4981,12 +4981,12 @@
                                 "thumbnail": {
                                   "_type": "Image",
                                   "title": "Stock photo",
-                                  "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                  "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                 },
                                 "originalImg": {
                                   "_type": "Image",
                                   "title": "Stock photo",
-                                  "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                  "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                 },
                                 "zoomImg": null
                               },
@@ -5263,7 +5263,7 @@
                                           "height": 64,
                                           "width": 64
                                         },
-                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       },
                                       "originalImg": {
                                         "_type": "Image",
@@ -5274,7 +5274,7 @@
                                           "height": 500,
                                           "width": 500
                                         },
-                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       },
                                       "zoomImg": {
                                         "_type": "Image",
@@ -5285,7 +5285,7 @@
                                           "height": 1600,
                                           "width": 1600
                                         },
-                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       }
                                     },
                                     "uploadedImageSize": {
@@ -5411,7 +5411,7 @@
                                           "height": 500,
                                           "width": 500
                                         },
-                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       },
                                       "zoomImg": {
                                         "_type": "Image",
@@ -5422,7 +5422,7 @@
                                           "height": 1600,
                                           "width": 1600
                                         },
-                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       }
                                     },
                                     "uploadedImageSize": {
@@ -8935,7 +8935,7 @@
                                         "height": 225,
                                         "width": 225
                                       },
-                                      "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                     },
                                     "priceGuidance": {
                                       "primaryGuidance": {
@@ -9020,7 +9020,7 @@
                                         "height": 225,
                                         "width": 225
                                       },
-                                      "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                     },
                                     "priceGuidance": {
                                       "primaryGuidance": {
@@ -9105,7 +9105,7 @@
                                         "height": 225,
                                         "width": 225
                                       },
-                                      "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                     },
                                     "priceGuidance": {
                                       "primaryGuidance": {
@@ -9190,7 +9190,7 @@
                                         "height": 225,
                                         "width": 225
                                       },
-                                      "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                     },
                                     "priceGuidance": {
                                       "primaryGuidance": {
