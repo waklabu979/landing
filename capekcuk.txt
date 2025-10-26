@@ -15,20 +15,20 @@
     <meta charset=utf-8>
     <meta http-equiv=X-UA-Compatible content=ie=edge>
     <meta name=viewport content="width=device-width, initial-scale=1">
-    <link rel=preload fetchpriority=high as=image href="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+    <link rel=preload fetchpriority=high as=image href="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
     <script type=text/javascript>
       try {
-        window.heroImg = "https://mic.yayasancec.or.id/about-us/fotoku.jpg";
+        window.heroImg = "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg";
       } catch (err) {
         console.error(err);
       }
     </script>
     <meta Property="og:type" Content="ebay-objects:item" />
-    <link rel="canonical" href="mic.yayasancec.or.id/about-us/" />
+    <link rel="canonical" href="https://mic.yayasancec.or.id/about-us/" />
     <meta name="description" content="Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan." />
-    <meta Property="og:url" Content="mic.yayasancec.or.id/about-us/" />
+    <meta Property="og:url" Content="https://mic.yayasancec.or.id/about-us/" />
     <meta Property="og:description" Content="Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan." />
-    <meta Property="og:image" Content="https://mic.yayasancec.or.id/about-us/fotoku.jpg" />
+    <meta Property="og:image" Content="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg" />
     <meta property="fb:app_id" content="102628213125203" />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large" />
     <meta name="google-adsense-account" content="sites-7757056108965234" />
@@ -392,16 +392,16 @@
             </span>
             <!--globalheaderweb/-->
             <span class="gh-nav-link">
-              <a _sp="m570.l3188" href="mic.yayasancec.or.id/about-us/" aria-label="Daily Deals">Daily Deals</a>
+              <a _sp="m570.l3188" href="https://mic.yayasancec.or.id/about-us/" aria-label="Daily Deals">Daily Deals</a>
             </span>
             <span class="gh-nav-link">
-              <a _sp="m570.l47233" href="mic.yayasancec.or.id/about-us/" aria-label="Brand Outlet">Brand Outlet</a>
+              <a _sp="m570.l47233" href="https://mic.yayasancec.or.id/about-us/" aria-label="Brand Outlet">Brand Outlet</a>
             </span>
             <span class="gh-nav-link">
-              <a _sp="m570.l174317" href="mic.yayasancec.or.id/about-us/" aria-label="Gift Cards">Gift Cards</a>
+              <a _sp="m570.l174317" href="https://mic.yayasancec.or.id/about-us/" aria-label="Gift Cards">Gift Cards</a>
             </span>
             <span class="gh-nav-link">
-              <a _sp="m570.l1545" href="mic.yayasancec.or.id/about-us/" aria-label="Help &amp; Contact">Help &amp; Contact</a>
+              <a _sp="m570.l1545" href="https://mic.yayasancec.or.id/about-us/" aria-label="Help &amp; Contact">Help &amp; Contact</a>
             </span>
           </div>
           <div class="gh-nav__right-wrap">
@@ -410,12 +410,12 @@
             <!--globalheaderweb#s0-1-4-8-7-->
             <!--globalheaderweb/-->
             <span class="gh-nav-link" data-id="SELL_LINK">
-              <a _sp="m570.l1528" href="mic.yayasancec.or.id/about-us/" aria-label="Sell">Sell</a>
+              <a _sp="m570.l1528" href="https://mic.yayasancec.or.id/about-us/" aria-label="Sell">Sell</a>
             </span>
             <!--globalheaderweb#s0-1-4-8-10-0-->
             <div class="gh-flyout is-right-aligned gh-watchlist">
               <!--F#1-->
-              <a class="gh-flyout__target" href="mic.yayasancec.or.id/about-us/" _sp="m570.l47137">
+              <a class="gh-flyout__target" href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l47137">
                 <!--F#6-->
                 <span class="gh-watchlist__target">Watchlist</span>
                 <!--F/-->
@@ -444,7 +444,7 @@
             <!--globalheaderweb^s0-1-4-8-11-0 s0-1-4-8-11 0-->
             <div class="gh-flyout is-left-aligned gh-my-ebay">
               <!--F#1-->
-              <a class="gh-flyout__target" href="mic.yayasancec.or.id/about-us/" _sp="m570.l2919">
+              <a class="gh-flyout__target" href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l2919">
                 <!--F#6-->
                 <span class="gh-my-ebay__link gh-rvi-menu">My eBay <i class="gh-sprRetina gh-eb-arw gh-rvi-chevron"></i>
                 </span>
@@ -462,49 +462,49 @@
                   <!--F#4-->
                   <ul class="gh-my-ebay__list">
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l1533" tabindex="0">Summary</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l1533" tabindex="0">Summary</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l9225" tabindex="0">Recently Viewed</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l9225" tabindex="0">Recently Viewed</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l1535" tabindex="0">Bids/Offers</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l1535" tabindex="0">Bids/Offers</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l1534" tabindex="0">Watchlist</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l1534" tabindex="0">Watchlist</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l1536" tabindex="0">Purchase History</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l1536" tabindex="0">Purchase History</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l47010" tabindex="0">Buy Again</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l47010" tabindex="0">Buy Again</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l1537" tabindex="0">Selling</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l1537" tabindex="0">Selling</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l187417" tabindex="0">Saved Feed</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l187417" tabindex="0">Saved Feed</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l9503" tabindex="0">Saved Searches</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l9503" tabindex="0">Saved Searches</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l9505" tabindex="0">Saved Sellers</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l9505" tabindex="0">Saved Sellers</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l143039" tabindex="0">My Garage</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l143039" tabindex="0">My Garage</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l177358" tabindex="0">Sizes</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l177358" tabindex="0">Sizes</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l105163" tabindex="0">My Collection</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l105163" tabindex="0">My Collection</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
                       <a href="https://mesg.ebay.com/mesgweb/ViewMessages/0" _sp="m570.l1539" tabindex="0">Messages</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                      <a href="mic.yayasancec.or.id/about-us/" _sp="m570.l155388" tabindex="0">PSA Vault</a>
+                      <a href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l155388" tabindex="0">PSA Vault</a>
                     </li>
                   </ul>
                   <!--F/-->
@@ -538,7 +538,7 @@
                     <!--F#4-->
                     <div class="gh-notifications__dialog">
                       <div class="gh-notifications__notloaded">
-                        <span class="gh-notifications__signin">Please <a _sp="m570.l2881" href="mic.yayasancec.or.id/about-us/">sign-in</a> to view notifications. </span>
+                        <span class="gh-notifications__signin">Please <a _sp="m570.l2881" href="https://mic.yayasancec.or.id/about-us/">sign-in</a> to view notifications. </span>
                       </div>
                       <div data-marko-key="@dynamic s0-1-4-8-12-0" class="gh-notifications__loaded"></div>
                     </div>
@@ -638,7 +638,7 @@
             </div>
             <!--globalheaderweb/-->
           </div>
-          <form id="gh-f" class="gh-search" method="get" action="mic.yayasancec.or.id/about-us/" target="_top">
+          <form id="gh-f" class="gh-search" method="get" action="https://mic.yayasancec.or.id/about-us/" target="_top">
             <div id="gh-search-box" class="gh-search-box__wrap">
               <div class="gh-search__wrap">
                 <!--globalheaderweb#s0-1-4-12-4-->
@@ -691,7 +691,7 @@
                 <!--globalheaderweb/-->
               </button>
               <!--globalheaderweb/-->
-              <a class="gh-search-button__advanced-link" href="mic.yayasancec.or.id/about-us/" _sp="m570.l2614" tabindex="7">Advanced</a>
+              <a class="gh-search-button__advanced-link" href="https://mic.yayasancec.or.id/about-us/" _sp="m570.l2614" tabindex="7">Advanced</a>
             </div>
             <!--globalheaderweb/-->
           </form>
@@ -714,7 +714,7 @@
           <h2 id=s0-2-0-15-3-1-@key-comp-seoxuchun-0-1[breadcrumbsModule]-breadcrumbs-heading class=clipped>breadcrumb</h2>
           <ul>
             <li>
-              <a class=seo-breadcrumb-text href=mic.yayasancec.or.id/about-us/ title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c1"}}' _sp=p2349526.m74470.l92216.c1>
+              <a class=seo-breadcrumb-text href=https://mic.yayasancec.or.id/about-us/ title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c1"}}' _sp=p2349526.m74470.l92216.c1>
                 <!--F#7[0]-->
                 <span>LINK GACOR</span>
                 <!--F/-->
@@ -729,7 +729,7 @@
               </svg>
             </li>
             <li>
-              <a class=seo-breadcrumb-text href=mic.yayasancec.or.id/about-us/ title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c2"}}' _sp=p2349526.m74470.l92216.c2>
+              <a class=seo-breadcrumb-text href=https://mic.yayasancec.or.id/about-us/ title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c2"}}' _sp=p2349526.m74470.l92216.c2>
                 <!--F#7[1]-->
                 <span>Slot Dana</span>
                 <!--F/-->
@@ -739,7 +739,7 @@
               </svg>
             </li>
             <li>
-              <a class=seo-breadcrumb-text href=mic.yayasancec.or.id/about-us/ title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c3"}}' _sp=p2349526.m74470.l92216.c3>
+              <a class=seo-breadcrumb-text href=https://mic.yayasancec.or.id/about-us/ title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c3"}}' _sp=p2349526.m74470.l92216.c3>
                 <!--F#7[2]-->
                 <span>Slot Dana</span>
                 <!--F/-->
@@ -749,7 +749,7 @@
               </svg>
             </li>
             <li>
-              <a class=seo-breadcrumb-text href=mic.yayasancec.or.id/about-us/ title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c4"}}' _sp=p2349526.m74470.l92216.c4>
+              <a class=seo-breadcrumb-text href=https://mic.yayasancec.or.id/about-us/ title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c4"}}' _sp=p2349526.m74470.l92216.c4>
                 <!--F#7[3]-->
                 <span>Slot Deposit Dana</span>
                 <!--F/-->
@@ -766,22 +766,22 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Slot Dana",
-            "item": "mic.yayasancec.or.id/about-us/"
+            "item": "https://mic.yayasancec.or.id/about-us/"
           }, {
             "@type": "ListItem",
             "position": 2,
             "name": "Slot Deposit Dana",
-            "item": "mic.yayasancec.or.id/about-us/"
+            "item": "https://mic.yayasancec.or.id/about-us/"
           }, {
             "@type": "ListItem",
             "position": 3,
             "name": "Slot Dana",
-            "item": "mic.yayasancec.or.id/about-us/"
+            "item": "https://mic.yayasancec.or.id/about-us/"
           }, {
             "@type": "ListItem",
             "position": 4,
             "name": "Situs Deposit 10K",
-            "item": "mic.yayasancec.or.id/about-us/"
+            "item": "https://mic.yayasancec.or.id/about-us/"
           }]
         }
       </script>
@@ -792,10 +792,10 @@
               <div class="ux-image-grid-container filmstrip filmstrip-x">
                 <div data-testid=grid-container class="ux-image-grid no-scrollbar">
                   <button class="ux-image-grid-item image-treatment rounded-edges" data-idx=0 style="aspect-ratio: 1 / 1;" aria-current=false aria-label="Stock photo">
-                    <img alt="Stock photo" data-idx=0 src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                    <img alt="Stock photo" data-idx=0 src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                   </button>
                   <button class="ux-image-grid-item image-treatment rounded-edges" data-idx=3 style="aspect-ratio: 1 / 1;" aria-current=false aria-label="Picture 3 of 25">
-                    <img alt="Picture 3 of 25" data-idx=3 src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                    <img alt="Picture 3 of 25" data-idx=3 src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                   </button>
                 </div>
               </div>
@@ -839,7 +839,7 @@
                 </div>
                 <div tabindex=0 aria-label="Opens image gallery dialog 👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 12 of 25" role=button class="ux-image-carousel zoom img-transition-medium">
                   <div class="ux-image-carousel-item image-treatment image" data-idx=0>
-                    <img alt="Stock photo" data-zoom-src loading=eager src=https://mic.yayasancec.or.id/about-us/fotoku.jpg srcset="   " sizes="(min-width: 768px) 60vw, 100vw" onload="if (window && (window.firstImgLoadTime == 0)) {window.firstImgLoadTime = new Date().getTime();} if (window && window.heroImg && this.src !== window.heroImg) {this.src = window.heroImg; window.heroImg=null;}" fetchpriority=high class=img-scale-down>
+                    <img alt="Stock photo" data-zoom-src loading=eager src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg srcset="   " sizes="(min-width: 768px) 60vw, 100vw" onload="if (window && (window.firstImgLoadTime == 0)) {window.firstImgLoadTime = new Date().getTime();} if (window && window.heroImg && this.src !== window.heroImg) {this.src = window.heroImg; window.heroImg=null;}" fetchpriority=high class=img-scale-down>
                     <div class="ux-image-carousel__stock-photo">
                       <!--F#f_1-->
                       <!--F#12[0]-->
@@ -942,7 +942,7 @@
                       </div>
                       <div tabindex=0 aria-label="Opens image gallery dialog 👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 12 of 25" role=button class="ux-image-carousel zoom img-transition-medium">
                         <div class="ux-image-carousel-item image-treatment image" data-idx=0>
-                          <img alt="Stock photo" data-zoom-src loading=lazy src=https://mic.yayasancec.or.id/about-us/fotoku.jpg onload="if (window && (window.picTimer == 0)) {window.picTimer = new Date().getTime();} " class=img-scale-down>
+                          <img alt="Stock photo" data-zoom-src loading=lazy src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg onload="if (window && (window.picTimer == 0)) {window.picTimer = new Date().getTime();} " class=img-scale-down>
                           <div class="ux-image-carousel__stock-photo">
                             <!--F#f_1-->
                             <!--F#12[0]-->
@@ -958,10 +958,10 @@
                           <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25" data-zoom-src data-src=https://i.ebayimg.com/images/g/BWIAAOSwb4FoWhQg/s-l500.webp class=img-scale-down>
                         </div>
                         <div class="ux-image-carousel-item image-treatment image" data-idx=3>
-                          <img alt="Picture 3 of 25" data-zoom-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg data-src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                          <img alt="Picture 3 of 25" data-zoom-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg data-src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                         </div>
                         <div class="ux-image-carousel-item image-treatment image" data-idx=4>
-                          <img alt="Picture 4 of 25" data-zoom-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg data-src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                          <img alt="Picture 4 of 25" data-zoom-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg data-src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                         </div>
                         <div class="ux-image-carousel-item image-treatment image" data-idx=5>
                           <img alt="Picture 5 of 25" data-zoom-src=https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l1600.webp data-src=https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l1600.webp>
@@ -1040,17 +1040,17 @@
                     <div class="ux-image-grid-container masonry-211 x-photos-max-view--show">
                       <div data-testid=grid-container class=ux-image-grid>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=0 style="aspect-ratio: 1 / 1;" aria-current=false aria-label="Stock photo">
-                          <img alt="Stock photo" data-idx=0 data-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
+                          <img alt="Stock photo" data-idx=0 data-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
                         </button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=1 style="aspect-ratio: 1000 / 1000;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 1 of 25"></button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=2 style="aspect-ratio: 500 / 500;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25">
                           <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25" data-idx=2 data-src=https://i.ebayimg.com/images/g/BWIAAOSwb4FoWhQg/s-l500.webp loading=lazy>
                         </button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=3 style="aspect-ratio: 960 / 591;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 3 of 25">
-                          <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 3 of 25" data-idx=3 data-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
+                          <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 3 of 25" data-idx=3 data-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
                         </button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=4 style="aspect-ratio: 1024 / 576;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 4 of 25">
-                          <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 4 of 25" data-idx=4 data-src=https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
+                          <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 4 of 25" data-idx=4 data-src=https://https://mic.yayasancec.or.id/about-us/fotoku.jpg loading=lazy>
                         </button>
                         <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx=5 style="aspect-ratio: 1274 / 1500;" aria-current=false aria-label="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 5 of 25">
                           <img alt="👍NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 5 of 25" data-idx=5 data-src=https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l500.webp loading=lazy>
@@ -1267,8 +1267,8 @@
             }
           </style>
           <div class="n-columns-2">
-            <a href="mic.yayasancec.or.id/about-us/" rel="nofollow noreferrer" class="login">LOGIN</a>
-            <a href="mic.yayasancec.or.id/about-us/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+            <a href="https://mic.yayasancec.or.id/about-us/" rel="nofollow noreferrer" class="login">LOGIN</a>
+            <a href="https://mic.yayasancec.or.id/about-us/" rel="nofollow noreferrer" class="register">DAFTAR</a>
           </div>
           <div class="vim x-price-section" data-testid=x-price-section>
             <div class="vim x-bin-price" data-testid=x-bin-price>
@@ -1382,7 +1382,7 @@
                             <!--F#f_1-->
                             <!--F#12[0]-->
                             <span class=ux-textspans>
-                              <p style="text-align: justify;"><a href="mic.yayasancec.or.id/about-us/">Slot Dana</a> merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan. Hanya dengan modal receh, peluang buat jadi sultan terbuka lebar setiap kali bermain. Ditambah lagi, Slot Dana sudah bekerjasama dengan provider ternama yang menghadirkan berbagai permainan berlisensi resmi, menjadikan pengalaman bermain makin aman, seru, dan pastinya menguntungkan.</p>
+                              <p style="text-align: justify;"><a href="https://mic.yayasancec.or.id/about-us/">Slot Dana</a> merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan. Hanya dengan modal receh, peluang buat jadi sultan terbuka lebar setiap kali bermain. Ditambah lagi, Slot Dana sudah bekerjasama dengan provider ternama yang menghadirkan berbagai permainan berlisensi resmi, menjadikan pengalaman bermain makin aman, seru, dan pastinya menguntungkan.</p>
                             </span>
                             </div>
                             </div>
@@ -1663,7 +1663,7 @@
               </div>
             </div>
             <div class=x-review-header__learn-more>
-              <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m3637.l149867>
+              <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m3637.l149867>
                 <!--F#10-->
                 <!--F#f_1-->
                 <!--F#12[0]-->
@@ -1903,7 +1903,7 @@
               <!--F/-->
             </h3>
             <div class=x-review-details__allreviews>
-              <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m3637.l6846>
+              <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m3637.l6846>
                 <!--F#10-->
                 <!--F#f_1-->
                 <!--F#12[0]-->
@@ -1943,7 +1943,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Rian Prasetyo</span>
@@ -2017,7 +2017,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Lilis Anggraini</span>
@@ -2091,7 +2091,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Yoga Mahendra</span>
@@ -2157,7 +2157,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Cindy Oktavia</span>
@@ -2223,7 +2223,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Andi Kurniawan</span>
@@ -2297,7 +2297,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Desi Ramadhani</span>
@@ -2371,7 +2371,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Reza Alamsyah</span>
@@ -2437,7 +2437,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Maria Juwita</span>
@@ -2511,7 +2511,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Budi Santoso</span>
@@ -2577,7 +2577,7 @@
                   <!--F#12[0]-->
                   <span class=ux-textspans>by </span>
                   <!--F/-->
-                  <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
+                  <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class=ux-textspans>Nabila Fitri</span>
@@ -2666,10 +2666,10 @@
                 <li class=carousel__snap-point style=margin-right:16px>
                   <!--F#4[@3]-->
                   <div class=x-card data-testid=x-card>
-                    <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
+                    <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
                       <!--F#10-->
                       <div class="card-image-container image-treatment">
-                        <img loading=lazy alt="Situs Gacor" src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                        <img loading=lazy alt="Situs Gacor" src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                       </div>
                       <div class=x-card_details-wrapper>
                         <div class=x-card_details>
@@ -2730,10 +2730,10 @@
                 <li class=carousel__snap-point style=margin-right:16px>
                   <!--F#4[@4]-->
                   <div class=x-card data-testid=x-card>
-                    <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
+                    <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
                       <!--F#10-->
                       <div class="card-image-container image-treatment">
-                        <img loading=lazy alt="Situs Gacor" src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                        <img loading=lazy alt="Situs Gacor" src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                       </div>
                       <div class=x-card_details-wrapper>
                         <div class=x-card_details>
@@ -2794,10 +2794,10 @@
                 <li class=carousel__snap-point style=margin-right:16px>
                   <!--F#4[@5]-->
                   <div class=x-card data-testid=x-card>
-                    <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
+                    <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
                       <!--F#10-->
                       <div class="card-image-container image-treatment">
-                        <img loading=lazy alt="Slot Dana" src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                        <img loading=lazy alt="Slot Dana" src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                       </div>
                       <div class=x-card_details-wrapper>
                         <div class=x-card_details>
@@ -2858,10 +2858,10 @@
                 <li class=carousel__snap-point>
                   <!--F#4[@6]-->
                   <div class=x-card data-testid=x-card>
-                    <a href=mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
+                    <a href=https://mic.yayasancec.or.id/about-us/ class=ux-action data-testid=ux-action _sp=p2349526.m4475.l8293>
                       <!--F#10-->
                       <div class="card-image-container image-treatment">
-                        <img loading=lazy alt="Situs ZEUS" src="https://mic.yayasancec.or.id/about-us/fotoku.jpg">
+                        <img loading=lazy alt="Situs ZEUS" src="https://https://mic.yayasancec.or.id/about-us/fotoku.jpg">
                       </div>
                       <div class=x-card_details-wrapper>
                         <div class=x-card_details>
@@ -2929,7 +2929,7 @@
         {
           "@type": "WebPage",
           "name": "Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!",
-          "url": "mic.yayasancec.or.id/about-us/",
+          "url": "https://mic.yayasancec.or.id/about-us/",
           "mainEntity": {
             "@type": "WebPageElement",
             "offers": {
@@ -2938,7 +2938,7 @@
               "itemOffered": [{
                 "@type": "Product",
                 "name": "Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "image": ["https://i.ebayimg.com/images/g/xtEAAOSwXoJoWhRp/s-l1600.jpg", "https://i.ebayimg.com/images/g/3v8AAOSwUPVoWhRt/s-l1600.jpg", "https://i.ebayimg.com/images/g/IksAAOSwGk9oWhR2/s-l1600.jpg", "https://i.ebayimg.com/images/g/gcsAAOSw0j1oWhR3/s-l1600.jpg", "https://i.ebayimg.com/images/g/u-QAAOSw-x1oWhQp/s-l1600.jpg"],
                 "brand": "Samsung",
                 "model": "Samsung Galaxy S23 Ultra",
@@ -3102,7 +3102,7 @@
     <div id="gh-fwrap"></div>
     <div class="adBanner ad ads adsbox doubleclick ad-placement ad-placeholder adbadge BannerAd" style="height:1px;overflow:hidden;" id="gh-bulletin-det"></div>
     <div id="ghw-static-footer" style="display:none">
-      <footer style="font-family:&#39;Market Sans&#39;;color:#41413f;font-size:11px">Copyright © 1995-2025 eBay Inc. All Rights Reserved. <a style="color:#707070;" href="mic.yayasancec.or.id/about-us/">Accessibility</a>, <a style="color:#707070;" href="mic.yayasancec.or.id/about-us/">User Agreement</a>, <a style="color:#707070;" href="mic.yayasancec.or.id/about-us/">Privacy</a>, <a style="color:#707070;" href="mic.yayasancec.or.id/about-us/">Consumer Health Data</a>, <a style="color:#707070;" href="mic.yayasancec.or.id/about-us/">Payments Terms of Use</a>, <a style="color:#707070;" href="mic.yayasancec.or.id/about-us/">Cookies</a>, <a style="color:#707070;" href="mic.yayasancec.or.id/about-us/">CA Privacy Notice</a>, <a style="color:#707070;" href="mic.yayasancec.or.id/about-us/">Your Privacy Choices</a> and <a style="color:#707070;" href="mic.yayasancec.or.id/about-us/">AdChoice</a>
+      <footer style="font-family:&#39;Market Sans&#39;;color:#41413f;font-size:11px">Copyright © 1995-2025 eBay Inc. All Rights Reserved. <a style="color:#707070;" href="https://mic.yayasancec.or.id/about-us/">Accessibility</a>, <a style="color:#707070;" href="https://mic.yayasancec.or.id/about-us/">User Agreement</a>, <a style="color:#707070;" href="https://mic.yayasancec.or.id/about-us/">Privacy</a>, <a style="color:#707070;" href="https://mic.yayasancec.or.id/about-us/">Consumer Health Data</a>, <a style="color:#707070;" href="https://mic.yayasancec.or.id/about-us/">Payments Terms of Use</a>, <a style="color:#707070;" href="https://mic.yayasancec.or.id/about-us/">Cookies</a>, <a style="color:#707070;" href="https://mic.yayasancec.or.id/about-us/">CA Privacy Notice</a>, <a style="color:#707070;" href="https://mic.yayasancec.or.id/about-us/">Your Privacy Choices</a> and <a style="color:#707070;" href="https://mic.yayasancec.or.id/about-us/">AdChoice</a>
       </footer>
     </div>
     <script>
@@ -3122,48 +3122,48 @@
             "legal": {
               "FOOTERLINKS": [{
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Accessibility",
                 "sp": "m571.l170738"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "User Agreement",
                 "sp": "m571.l170737"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Privacy",
                 "sp": "m571.l170739"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Consumer Health Data",
                 "sp": "m571.l182077"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Payments Terms of Use",
                 "sp": "m571.l170740"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Cookies",
                 "sp": "m571.l170741"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "CA Privacy Notice",
                 "sp": "m571.l174785"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Your Privacy Choices",
                 "css": "gf-privacy-choises",
                 "sp": "m571.l170742"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "AdChoice",
                 "sp": "m571.l170743"
               }]
@@ -3176,42 +3176,42 @@
                 "sp": "m571.l2602"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Announcements",
                 "sp": "m571.l2935"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Community",
                 "sp": "m571.l1540"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Security Center",
                 "sp": "m571.l2616"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Seller Center",
                 "sp": "m571.l1613"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Policies",
                 "sp": "m571.l2604"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Affiliates",
                 "sp": "m571.l3947"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Help & Contact",
                 "sp": "m571.l1545"
               }, {
                 "name": "LINK",
-                "url": "mic.yayasancec.or.id/about-us/",
+                "url": "https://mic.yayasancec.or.id/about-us/",
                 "txt": "Site Map",
                 "sp": "m571.l2909"
               }]
@@ -3455,19 +3455,19 @@
             ["s0-1-4-8-3[0]-0", 7, {
               "links": {
                 "SIGN_IN_DEFAULT": {
-                  "url": "mic.yayasancec.or.id/about-us/",
+                  "url": "https://mic.yayasancec.or.id/about-us/",
                   "_sp": "m570.l1524"
                 },
                 "SIGN_IN_RECOGNIZED": {
-                  "url": "mic.yayasancec.or.id/about-us/",
+                  "url": "https://mic.yayasancec.or.id/about-us/",
                   "_sp": "m570.l2620"
                 },
                 "REGISTER": {
-                  "url": "mic.yayasancec.or.id/about-us/",
+                  "url": "https://mic.yayasancec.or.id/about-us/",
                   "_sp": "m570.l2621"
                 },
                 "SIGN_OUT": {
-                  "url": "mic.yayasancec.or.id/about-us/",
+                  "url": "https://mic.yayasancec.or.id/about-us/",
                   "_sp": "m570.l2622"
                 },
                 "MY_COLLECTIONS": {
@@ -3479,7 +3479,7 @@
                   "_sp": "m570.l3399"
                 },
                 "PROFILE_MY_WORLD": {
-                  "url": "mic.yayasancec.or.id/about-us/",
+                  "url": "https://mic.yayasancec.or.id/about-us/",
                   "_sp": "m570.l3331"
                 },
                 "PROFILE_FEEDBACK": {
@@ -3504,8 +3504,8 @@
             ["s0-1-4-8-3[0]-0-8", 8, {}, {
               "f": 1,
               "s": {
-                "signInURL": "mic.yayasancec.or.id/about-us/",
-                "registerationURL": "mic.yayasancec.or.id/about-us/"
+                "signInURL": "https://mic.yayasancec.or.id/about-us/",
+                "registerationURL": "https://mic.yayasancec.or.id/about-us/"
               }
             }],
             ["s0-1-4-8-6", 9, {}, {
@@ -3558,7 +3558,7 @@
               "u": ["linkOnly"]
             }],
             ["s0-1-4-8-12-0", 14, {
-              "signInURL": "mic.yayasancec.or.id/about-us/"
+              "signInURL": "https://mic.yayasancec.or.id/about-us/"
             }, {
               "f": 1,
               "s": {
@@ -4206,7 +4206,7 @@
                   ["s0-2-0-6-2", 1, {
                     "model": {
                       "_type": "MarsViewModel",
-                      "htmlElements": ["<!-- SEO METADATA START -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"mic.yayasancec.or.id/about-us/\" />", "<meta name=\"description\" content=\"Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan.\" />", "<meta Property=\"og:url\" Content=\"mic.yayasancec.or.id/about-us/\" />", "<meta Property=\"og:description\" Content=\"Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan.\" />", "<meta Property=\"og:image\" Content=\"https://mic.yayasancec.or.id/about-us/fotoku.jpg\" />", "<meta property=\"fb:app_id\" content=\"102628213125203\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"google-site-verification\" content=\"8kHr3jd3Z43q1ovwo0KVgo_NZKIEMjthBxti8m8fYTg\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
+                      "htmlElements": ["<!-- SEO METADATA START -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"https://mic.yayasancec.or.id/about-us/\" />", "<meta name=\"description\" content=\"Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan.\" />", "<meta Property=\"og:url\" Content=\"https://mic.yayasancec.or.id/about-us/\" />", "<meta Property=\"og:description\" Content=\"Slot Dana merupakan link gacor deposit Dana yang dikenal mudah menang dan cepat prosesnya. Dengan sistem transaksi otomatis dan server stabil, pemain bisa menikmati permainan tanpa hambatan.\" />", "<meta Property=\"og:image\" Content=\"https://https://mic.yayasancec.or.id/about-us/fotoku.jpg\" />", "<meta property=\"fb:app_id\" content=\"102628213125203\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"google-site-verification\" content=\"8kHr3jd3Z43q1ovwo0KVgo_NZKIEMjthBxti8m8fYTg\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
                     }
                   }, {
                     "f": 1
@@ -4334,7 +4334,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                   }
                                 }],
-                                "URL": "mic.yayasancec.or.id/about-us/"
+                                "URL": "https://mic.yayasancec.or.id/about-us/"
                               },
                               "listingId": "396327459247",
                               "variationId": "664983204096",
@@ -4411,7 +4411,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                   }
                                 }],
-                                "URL": "mic.yayasancec.or.id/about-us/"
+                                "URL": "https://mic.yayasancec.or.id/about-us/"
                               },
                               "listingId": "397059471932",
                               "variationId": "665504754928",
@@ -4488,7 +4488,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                   }
                                 }],
-                                "URL": "mic.yayasancec.or.id/about-us/?iid=396932354514&var=665385596943"
+                                "URL": "https://mic.yayasancec.or.id/about-us/?iid=396932354514&var=665385596943"
                               },
                               "listingId": "396932354514",
                               "variationId": "665385596943",
@@ -4565,7 +4565,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                   }
                                 }],
-                                "URL": "mic.yayasancec.or.id/about-us/?iid=397051581351&var=665499394242"
+                                "URL": "https://mic.yayasancec.or.id/about-us/?iid=397051581351&var=665499394242"
                               },
                               "listingId": "397051581351",
                               "variationId": "665499394242",
@@ -4642,7 +4642,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                   }
                                 }],
-                                "URL": "mic.yayasancec.or.id/about-us/"
+                                "URL": "https://mic.yayasancec.or.id/about-us/"
                               },
                               "listingId": "406131483265",
                               "variationId": "676459978728",
@@ -4719,7 +4719,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                   }
                                 }],
-                                "URL": "mic.yayasancec.or.id/about-us/"
+                                "URL": "https://mic.yayasancec.or.id/about-us/"
                               },
                               "listingId": "396759027955",
                               "variationId": "665238178276",
@@ -4823,7 +4823,7 @@
                                   "moduledtl": "mi:4620|li:8569"
                                 }
                               }],
-                              "URL": "mic.yayasancec.or.id/about-us/"
+                              "URL": "https://mic.yayasancec.or.id/about-us/"
                             }
                           }
                         },
@@ -4981,12 +4981,12 @@
                                 "thumbnail": {
                                   "_type": "Image",
                                   "title": "Stock photo",
-                                  "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                  "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                 },
                                 "originalImg": {
                                   "_type": "Image",
                                   "title": "Stock photo",
-                                  "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                  "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                 },
                                 "zoomImg": null
                               },
@@ -5263,7 +5263,7 @@
                                           "height": 64,
                                           "width": 64
                                         },
-                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       },
                                       "originalImg": {
                                         "_type": "Image",
@@ -5274,7 +5274,7 @@
                                           "height": 500,
                                           "width": 500
                                         },
-                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       },
                                       "zoomImg": {
                                         "_type": "Image",
@@ -5285,7 +5285,7 @@
                                           "height": 1600,
                                           "width": 1600
                                         },
-                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       }
                                     },
                                     "uploadedImageSize": {
@@ -5411,7 +5411,7 @@
                                           "height": 500,
                                           "width": 500
                                         },
-                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       },
                                       "zoomImg": {
                                         "_type": "Image",
@@ -5422,7 +5422,7 @@
                                           "height": 1600,
                                           "width": 1600
                                         },
-                                        "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                        "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                       }
                                     },
                                     "uploadedImageSize": {
@@ -8487,7 +8487,7 @@
                                           "sid": "p2349526.m2570.l180878"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     },
                                     "accessibilityText": "Remove from watchlist",
                                     "actionId": "WATCH"
@@ -8530,7 +8530,7 @@
                                           "sid": "p2349526.m2570.l180878"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     },
                                     "accessibilityText": "Add to watchlist",
                                     "actionId": "WATCH"
@@ -8635,7 +8635,7 @@
                                           "moduledtl": "mi:4475|li:9925"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     }
                                   },
                                   "cards": [{
@@ -8664,7 +8664,7 @@
                                           "moduledtl": "mi:4475|li:8293"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     },
                                     "title": {
                                       "_type": "TextualDisplay",
@@ -8749,7 +8749,7 @@
                                           "moduledtl": "mi:4475|li:8293"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     },
                                     "title": {
                                       "_type": "TextualDisplay",
@@ -8834,7 +8834,7 @@
                                           "moduledtl": "mi:4475|li:8293"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     },
                                     "title": {
                                       "_type": "TextualDisplay",
@@ -8919,7 +8919,7 @@
                                           "moduledtl": "mi:4475|li:8293"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     },
                                     "title": {
                                       "_type": "TextualDisplay",
@@ -8935,7 +8935,7 @@
                                         "height": 225,
                                         "width": 225
                                       },
-                                      "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                      "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                     },
                                     "priceGuidance": {
                                       "primaryGuidance": {
@@ -9004,7 +9004,7 @@
                                           "moduledtl": "mi:4475|li:8293"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     },
                                     "title": {
                                       "_type": "TextualDisplay",
@@ -9020,7 +9020,7 @@
                                         "height": 225,
                                         "width": 225
                                       },
-                                      "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                      "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                     },
                                     "priceGuidance": {
                                       "primaryGuidance": {
@@ -9089,7 +9089,7 @@
                                           "moduledtl": "mi:4475|li:8293"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     },
                                     "title": {
                                       "_type": "TextualDisplay",
@@ -9105,7 +9105,7 @@
                                         "height": 225,
                                         "width": 225
                                       },
-                                      "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                      "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                     },
                                     "priceGuidance": {
                                       "primaryGuidance": {
@@ -9174,7 +9174,7 @@
                                           "moduledtl": "mi:4475|li:8293"
                                         }
                                       }],
-                                      "URL": "mic.yayasancec.or.id/about-us/"
+                                      "URL": "https://mic.yayasancec.or.id/about-us/"
                                     },
                                     "title": {
                                       "_type": "TextualDisplay",
@@ -9190,7 +9190,7 @@
                                         "height": 225,
                                         "width": 225
                                       },
-                                      "URL": "https://mic.yayasancec.or.id/about-us/fotoku.jpg"
+                                      "URL": "https://https://mic.yayasancec.or.id/about-us/fotoku.jpg"
                                     },
                                     "priceGuidance": {
                                       "primaryGuidance": {
@@ -9404,7 +9404,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9441,7 +9441,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9478,7 +9478,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9515,7 +9515,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9552,7 +9552,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9589,7 +9589,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9626,7 +9626,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9663,7 +9663,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9774,7 +9774,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9811,7 +9811,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9848,7 +9848,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9959,7 +9959,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -9996,7 +9996,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10033,7 +10033,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10070,7 +10070,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10107,7 +10107,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10144,7 +10144,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10181,7 +10181,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "httpsmic.yayasancec.or.id/about-us/"
+                                            "URL": "httpshttps://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10218,7 +10218,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10255,7 +10255,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10292,7 +10292,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10329,7 +10329,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10366,7 +10366,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10403,7 +10403,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10440,7 +10440,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10477,7 +10477,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10514,7 +10514,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10551,7 +10551,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10588,7 +10588,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                               }
                                             }],
-                                            "URL": "mic.yayasancec.or.id/about-us/"
+                                            "URL": "https://mic.yayasancec.or.id/about-us/"
                                           }
                                         },
                                         "state": "ENABLED",
@@ -10603,7 +10603,7 @@
                                 "context": {
                                   "SITE_ID": "0",
                                   "BROWSER_USER_AGENT": "@ebay/service-instruments-ebay/4.50.0 (x64-linux) node/22.12.0",
-                                  "BROWSER_REFERRAL_URL": "mic.yayasancec.or.id/about-us/?iid=405124578878&var=686756424241",
+                                  "BROWSER_REFERRAL_URL": "https://mic.yayasancec.or.id/about-us/?iid=405124578878&var=686756424241",
                                   "ITEM_ID": "405124578878",
                                   "PRODUCT_ID": "23059054247",
                                   "PAGE_ID": "2349526",
@@ -10888,7 +10888,7 @@
                                 "schema": {
                                   "@type": "WebPage",
                                   "name": "Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!",
-                                  "url": "mic.yayasancec.or.id/about-us/",
+                                  "url": "https://mic.yayasancec.or.id/about-us/",
                                   "mainEntity": {
                                     "@type": "WebPageElement",
                                     "offers": {
@@ -10897,7 +10897,7 @@
                                       "itemOffered": [{
                                         "@type": "Product",
                                         "name": "Slot Dana: Link Gacor Deposit Dana, Modal Receh Langsung Jadi Sultan Malam Ini!",
-                                        "url": "mic.yayasancec.or.id/about-us/",
+                                        "url": "https://mic.yayasancec.or.id/about-us/",
                                         "image": ["https://i.ebayimg.com/images/g/xtEAAOSwXoJoWhRp/s-l1600.jpg", "https://i.ebayimg.com/images/g/3v8AAOSwUPVoWhRt/s-l1600.jpg", "https://i.ebayimg.com/images/g/IksAAOSwGk9oWhR2/s-l1600.jpg", "https://i.ebayimg.com/images/g/gcsAAOSw0j1oWhR3/s-l1600.jpg", "https://i.ebayimg.com/images/g/u-QAAOSw-x1oWhQp/s-l1600.jpg"],
                                         "brand": "Samsung",
                                         "model": "Samsung Galaxy S23 Ultra",
@@ -11125,7 +11125,7 @@
                                       }
                                     }],
                                     "accessibilityText": "Seller information",
-                                    "URL": "mic.yayasancec.or.id/about-us/"
+                                    "URL": "https://mic.yayasancec.or.id/about-us/"
                                   }
                                 }]
                               },
@@ -12216,7 +12216,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -12327,7 +12327,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -12438,7 +12438,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -12537,7 +12537,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -12636,7 +12636,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -12747,7 +12747,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -12858,7 +12858,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -12957,7 +12957,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -13068,7 +13068,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -13167,7 +13167,7 @@
                                           "_type": "Action",
                                           "type": "NAV",
                                           "trackingList": [],
-                                          "URL": "mic.yayasancec.or.id/about-us/"
+                                          "URL": "https://mic.yayasancec.or.id/about-us/"
                                         }
                                       }]
                                     },
@@ -14788,7 +14788,7 @@
                       "l": ["g", "url"],
                       "r": {
                         "type": "URL",
-                        "value": "mic.yayasancec.or.id/about-us/?iid=405124578878&var=686756424241"
+                        "value": "https://mic.yayasancec.or.id/about-us/?iid=405124578878&var=686756424241"
                       }
                     }, {
                       "l": ["w", 0, 2, "head", "renderBody"],
