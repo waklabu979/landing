@@ -14827,6 +14827,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 exit;
 }
 ?>
+<?php
+
 /**
  * @file ojs/index.php
  *
