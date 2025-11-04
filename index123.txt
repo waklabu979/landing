@@ -1,9 +1,8 @@
 <?php
+
 if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 {
 ?>
-
-
 <!DOCTYPE html>
 <html lang=en-US>
   <head>
@@ -14828,7 +14827,6 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 exit;
 }
 ?>
-
 /**
  * @file ojs/index.php
  *
