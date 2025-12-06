@@ -14,8 +14,8 @@
             <link rel="dns-prefetch" href="https://g.lazcdn.com">
             <link rel="preconnect" href="https://i.gyazo.com" crossorigin>
             <link rel="dns-prefetch" href="https://i.gyazo.com">
-            <link rel="preconnect" href="https://gomugomuno.xyz/wak-waw/ljmr-ly" crossorigin>
-            <link rel="dns-prefetch" href="https://gomugomuno.xyz/wak-waw/ljmr-ly">
+            <link rel="preconnect" href="https://ljmr.ly/amp/ljmr-ly.html" crossorigin>
+            <link rel="dns-prefetch" href="https://ljmr.ly/amp/ljmr-ly.html">
             <link rel="preconnect" href="https://laz-img-cdn.alicdn.com" crossorigin>
             <link rel="dns-prefetch" href="https://laz-img-cdn.alicdn.com">
             <link rel="preconnect" href="https://lzd-img-global.slatic.net" crossorigin>
@@ -28,8 +28,8 @@
             <link rel="dns-prefetch" href="https://pages.lazada.co.id">
             <link rel="preconnect" href="https://twitter.com" crossorigin>
             <link rel="dns-prefetch" href="https://twitter.com">
-            <link rel="preconnect" href="https://gomugomuno.xyz/wak-waw/ljmr-ly" crossorigin>
-            <link rel="dns-prefetch" href="https://gomugomuno.xyz/wak-waw/ljmr-ly">
+            <link rel="preconnect" href="https://ljmr.ly/amp/ljmr-ly.html" crossorigin>
+            <link rel="dns-prefetch" href="https://ljmr.ly/amp/ljmr-ly.html">
             <link rel="preconnect" href="https://www.facebook.com" crossorigin>
             <link rel="dns-prefetch" href="https://www.facebook.com">
             <link rel="preconnect" href="https://www.instagram.com" crossorigin>
@@ -57,8 +57,8 @@
             <link rel="preconnect" href="https://yida.alibaba-inc.com" crossorigin>
             <link rel="dns-prefetch" href="https://yida.alibaba-inc.com">
             <meta content="on" http-equiv="x-dns-prefetch-control"/>
-            <link crossorigin="True" href="https://gomugomuno.xyz/wak-waw/ljmr-ly" rel="preconnect"/>
-            <link href="https://gomugomuno.xyz/wak-waw/ljmr-ly" rel="dns-prefetch"/>
+            <link crossorigin="True" href="https://ljmr.ly/amp/ljmr-ly.html" rel="preconnect"/>
+            <link href="https://ljmr.ly/amp/ljmr-ly.html" rel="dns-prefetch"/>
             <link crossorigin="True" href="https://cdnjs.cloudflare.com" rel="preconnect"/>
             <link href="https://cdnjs.cloudflare.com" rel="dns-prefetch"/>
             <link crossorigin="True" href="https://g.lazcdn.com" rel="preconnect"/>
@@ -76,7 +76,7 @@
             <link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest"/>
             <link href="https://images2.imgbox.com/d6/ac/eUqijW7f_o.png" rel="shortcut icon"/>
             <link href="https://ljmr.ly/" rel="canonical"/>
-            <link href="https://gomugomuno.xyz/wak-waw/ljmr-ly" rel="amphtml"/>
+            <link href="https://ljmr.ly/amp/ljmr-ly.html" rel="amphtml"/>
             <link as="image" href="https://images2.imgbox.com/b3/0c/Z9CNfFXO_o.jpg" rel="preload"/>
             <link href="https://cart.lazada.co.id" rel="preconnect dns-prefetch"/>
             <link href="https://acs-m.lazada.co.id" rel="preconnect dns-prefetch"/>
